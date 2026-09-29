@@ -1,0 +1,144 @@
+﻿CountyState,Year,Race,Age,Count,EXPCount,Births,RateRatioResult,LowerBoundResult,UpperBoundResult,Crude_Sig,County_Code
+Allegheny,2024,All Races,All Infants,75,66,"11,526",6.5,5.0,8.0,,003
+Allegheny,2024,White,All Infants,27,35,"7,655",3.5,2.2,4.9,,003
+Allegheny,2024,Black,All Infants,42,24,"1,965",21.4,14.9,27.8,+,003
+Allegheny,2024,Asian/Pacific Islander,All Infants,1,2,786,ND,ND,ND,,003
+Allegheny,2024,Multi-Race,All Infants,1,5,433,ND,ND,ND,,003
+Allegheny,2024,Hispanic,All Infants,1,3,672,ND,ND,ND,,003
+Allegheny,2023,All Races,All Infants,63,65,"11,555",5.5,4.1,6.8,,003
+Allegheny,2023,White,All Infants,29,34,"7,689",3.8,2.4,5.1,,003
+Allegheny,2023,Black,All Infants,23,20,"2,090",11.0,6.5,15.5,,003
+Allegheny,2023,Asian/Pacific Islander,All Infants,0,2,802,ND,ND,ND,,003
+Allegheny,2023,Multi-Race,All Infants,4,5,459,ND,ND,ND,,003
+Allegheny,2023,Hispanic,All Infants,1,3,542,ND,ND,ND,,003
+Allegheny,2022,All Races,All Infants,66,67,"11,831",5.6,4.2,6.9,,003
+Allegheny,2022,White,All Infants,27,35,"7,954",3.4,2.1,4.7,,003
+Allegheny,2022,Black,All Infants,25,24,"2,255",11.1,6.7,15.4,,003
+Allegheny,2022,Asian/Pacific Islander,All Infants,3,3,777,ND,ND,ND,,003
+Allegheny,2022,Multi-Race,All Infants,6,4,356,ND,ND,ND,,003
+Allegheny,2022,Hispanic,All Infants,1,3,489,ND,ND,ND,,003
+Allegheny,2021,All Races,All Infants,89,68,"12,421",7.2,5.7,8.7,+,003
+Allegheny,2021,White,All Infants,33,35,"8,477",3.9,2.6,5.2,,003
+Allegheny,2021,Black,All Infants,28,27,"2,453",11.4,7.2,15.6,,003
+Allegheny,2021,Asian/Pacific Islander,All Infants,1,2,817,ND,ND,ND,,003
+Allegheny,2021,Multi-Race,All Infants,7,3,318,ND,ND,ND,,003
+Allegheny,2021,Hispanic,All Infants,4,2,421,ND,ND,ND,,003
+Allegheny,2020,All Races,All Infants,74,68,"12,188",6.1,4.7,7.5,,003
+Allegheny,2020,White,All Infants,34,37,"8,277",4.1,2.7,5.5,,003
+Allegheny,2020,Black,All Infants,27,28,"2,530",10.7,6.6,14.7,,003
+Allegheny,2020,Asian/Pacific Islander,All Infants,0,2,837,ND,ND,ND,,003
+Allegheny,2020,Multi-Race,All Infants,3,2,266,ND,ND,ND,,003
+Allegheny,2020,Hispanic,All Infants,0,2,338,ND,ND,ND,,003
+Allegheny,2019,All Races,All Infants,83,76,"12,905",6.4,5.0,7.8,,003
+Allegheny,2019,White,All Infants,24,40,"8,802",2.7,1.6,3.8,-,003
+Allegheny,2019,Black,All Infants,42,33,"2,591",16.2,11.3,21.1,,003
+Allegheny,2019,Asian/Pacific Islander,All Infants,1,3,884,ND,ND,ND,,003
+Allegheny,2019,Multi-Race,All Infants,2,2,280,ND,ND,ND,,003
+Allegheny,2019,Hispanic,All Infants,1,2,308,ND,ND,ND,,003
+Allegheny,2018,All Races,All Infants,73,76,"12,872",5.7,4.4,7.0,,003
+Allegheny,2018,White,All Infants,33,42,"8,849",3.7,2.5,5.0,,003
+Allegheny,2018,Black,All Infants,30,32,"2,563",11.7,7.5,15.9,,003
+Allegheny,2018,Asian/Pacific Islander,All Infants,2,2,848,ND,ND,ND,,003
+Allegheny,2018,Multi-Race,All Infants,5,2,324,ND,ND,ND,,003
+Allegheny,2018,Hispanic,All Infants,4,2,299,ND,ND,ND,,003
+Allegheny,2017,All Races,All Infants,77,79,"12,958",5.9,4.6,7.3,,003
+Allegheny,2017,White,All Infants,20,42,"8,824",2.3,1.3,3.3,-,003
+Allegheny,2017,Black,All Infants,43,37,"2,663",16.1,11.3,21.0,,003
+Allegheny,2017,Asian/Pacific Islander,All Infants,5,3,876,ND,ND,ND,,003
+Allegheny,2017,Multi-Race,All Infants,5,2,342,ND,ND,ND,,003
+Allegheny,2017,Hispanic,All Infants,3,2,301,ND,ND,ND,,003
+Allegheny,2016,All Races,All Infants,78,81,"13,222",5.9,4.6,7.2,,003
+Allegheny,2016,White,All Infants,30,42,"9,214",3.3,2.1,4.4,,003
+Allegheny,2016,Black,All Infants,38,37,"2,544",14.9,10.2,19.7,,003
+Allegheny,2016,Asian/Pacific Islander,All Infants,3,2,877,ND,ND,ND,,003
+Allegheny,2016,Multi-Race,All Infants,3,3,346,ND,ND,ND,,003
+Allegheny,2016,Hispanic,All Infants,3,2,300,ND,ND,ND,,003
+Allegheny,2015,All Races,All Infants,83,82,"13,311",6.2,4.9,7.6,,003
+Allegheny,2015,White,All Infants,38,46,"9,433",4.0,2.7,5.3,,003
+Allegheny,2015,Black,All Infants,32,33,"2,575",12.4,8.1,16.7,,003
+Allegheny,2015,Asian/Pacific Islander,All Infants,0,2,759,ND,ND,ND,,003
+Allegheny,2015,Multi-Race,All Infants,1,2,306,ND,ND,ND,,003
+Allegheny,2015,Hispanic,All Infants,2,2,273,ND,ND,ND,,003
+Allegheny,2014,All Races,All Infants,75,80,"13,292",5.6,4.4,6.9,,003
+Allegheny,2014,White,All Infants,26,43,"9,474",2.7,1.7,3.8,-,003
+Allegheny,2014,Black,All Infants,30,34,"2,540",11.8,7.6,16.0,,003
+Allegheny,2014,Asian/Pacific Islander,All Infants,2,2,746,ND,ND,ND,,003
+Allegheny,2014,Multi-Race,All Infants,2,2,309,ND,ND,ND,,003
+Allegheny,2014,Hispanic,All Infants,3,2,263,ND,ND,ND,,003
+Allegheny,2013,All Races,All Infants,88,89,"13,312",6.6,5.2,8.0,,003
+Allegheny,2013,White,All Infants,41,48,"9,370",4.4,3.0,5.7,,003
+Allegheny,2013,Black,All Infants,32,35,"2,598",12.3,8.0,16.6,,003
+Allegheny,2013,Asian/Pacific Islander,All Infants,1,2,780,ND,ND,ND,,003
+Allegheny,2013,Multi-Race,All Infants,2,3,318,ND,ND,ND,,003
+Allegheny,2013,Hispanic,All Infants,1,2,265,ND,ND,ND,,003
+Allegheny,2012,All Races,All Infants,77,92,"13,091",5.9,4.6,7.2,,003
+Allegheny,2012,White,All Infants,35,49,"9,400",3.7,2.5,5.0,-,003
+Allegheny,2012,Black,All Infants,27,37,"2,613",10.3,6.4,14.2,,003
+Allegheny,2012,Asian/Pacific Islander,All Infants,1,2,729,ND,ND,ND,,003
+Allegheny,2012,Hispanic,All Infants,2,2,229,ND,ND,ND,,003
+Allegheny,2011,All Races,All Infants,80,86,"13,098",6.1,4.8,7.4,,003
+Allegheny,2011,White,All Infants,35,53,"9,483",3.7,2.5,4.9,-,003
+Allegheny,2011,Black,All Infants,36,36,"2,614",13.8,9.3,18.3,,003
+Allegheny,2011,Asian/Pacific Islander,All Infants,3,2,652,ND,ND,ND,,003
+Allegheny,2011,Hispanic,All Infants,1,1,262,ND,ND,ND,,003
+Allegheny,2010,All Races,All Infants,98,94,"12,892",7.6,6.1,9.1,,003
+Allegheny,2010,White,All Infants,54,61,"9,391",5.8,4.2,7.3,,003
+Allegheny,2010,Black,All Infants,39,37,"2,588",15.1,10.3,19.8,,003
+Allegheny,2010,Asian/Pacific Islander,All Infants,1,2,595,ND,ND,ND,,003
+Allegheny,2010,Hispanic,All Infants,3,2,248,ND,ND,ND,,003
+Allegheny,2009,All Races,All Infants,97,94,"13,113",7.4,5.9,8.9,,003
+Allegheny,2009,White,All Infants,38,58,"9,542",4.0,2.7,5.2,-,003
+Allegheny,2009,Black,All Infants,56,45,"2,703",20.7,15.3,26.1,,003
+Allegheny,2009,Asian/Pacific Islander,All Infants,2,2,550,ND,ND,ND,,003
+Allegheny,2009,Hispanic,All Infants,3,1,219,ND,ND,ND,,003
+Allegheny,2008,All Races,All Infants,110,97,"13,276",8.3,6.7,9.8,,003
+Allegheny,2008,White,All Infants,62,64,"9,675",6.4,4.8,8.0,,003
+Allegheny,2008,Black,All Infants,45,40,"2,763",16.3,11.5,21.0,,003
+Allegheny,2008,Asian/Pacific Islander,All Infants,2,2,536,ND,ND,ND,,003
+Allegheny,2008,Hispanic,All Infants,1,1,199,ND,ND,ND,,003
+Allegheny,2007,All Races,All Infants,98,100,"13,379",7.3,5.9,8.8,,003
+Allegheny,2007,White,All Infants,44,60,"9,775",4.5,3.2,5.8,-,003
+Allegheny,2007,Black,All Infants,50,48,"2,800",17.9,12.9,22.8,,003
+Allegheny,2007,Asian/Pacific Islander,All Infants,2,2,564,ND,ND,ND,,003
+Allegheny,2007,Hispanic,All Infants,0,1,197,ND,ND,ND,,003
+Allegheny,2006,All Races,All Infants,100,98,"12,993",7.7,6.2,9.2,,003
+Allegheny,2006,White,All Infants,45,60,"9,624",4.7,3.3,6.0,-,003
+Allegheny,2006,Black,All Infants,51,45,"2,641",19.3,14.0,24.6,,003
+Allegheny,2006,Asian/Pacific Islander,All Infants,2,3,527,ND,ND,ND,,003
+Allegheny,2006,Hispanic,All Infants,2,1,195,ND,ND,ND,,003
+Allegheny,2005,All Races,All Infants,97,94,"13,013",7.5,6.0,8.9,,003
+Allegheny,2005,White,All Infants,51,61,"9,732",5.2,3.8,6.7,,003
+Allegheny,2005,Black,All Infants,44,40,"2,560",17.2,12.1,22.3,,003
+Allegheny,2005,Asian/Pacific Islander,All Infants,2,2,528,ND,ND,ND,,003
+Allegheny,2005,Hispanic,All Infants,2,1,203,ND,ND,ND,,003
+Allegheny,2004,All Races,All Infants,97,94,"13,227",7.3,5.9,8.8,,003
+Allegheny,2004,White,All Infants,50,62,"9,848",5.1,3.7,6.5,,003
+Allegheny,2004,Black,All Infants,43,40,"2,642",16.3,11.4,21.1,,003
+Allegheny,2004,Asian/Pacific Islander,All Infants,2,3,516,ND,ND,ND,,003
+Allegheny,2004,Hispanic,All Infants,1,2,193,ND,ND,ND,,003
+Allegheny,2003,All Races,All Infants,120,99,"13,601",8.8,7.2,10.4,+,003
+Allegheny,2003,White,All Infants,65,65,"10,367",6.3,4.7,7.8,,003
+Allegheny,2003,Black,All Infants,54,40,"2,506",21.5,15.8,27.3,+,003
+Allegheny,2003,Asian/Pacific Islander,All Infants,0,1,474,ND,ND,ND,,003
+Allegheny,2003,Hispanic,All Infants,2,2,243,ND,ND,ND,,003
+Allegheny,2002,All Races,All Infants,108,102,"13,469",8.0,6.5,9.5,,003
+Allegheny,2002,White,All Infants,49,66,"10,180",4.8,3.5,6.2,-,003
+Allegheny,2002,Black,All Infants,56,39,"2,570",21.8,16.1,27.5,+,003
+Allegheny,2002,Asian/Pacific Islander,All Infants,2,1,499,ND,ND,ND,,003
+Allegheny,2002,Hispanic,All Infants,0,1,157,ND,ND,ND,,003
+Allegheny,2001,All Races,All Infants,107,101,"13,925",7.7,6.2,9.1,,003
+Allegheny,2001,White,All Infants,54,65,"10,682",5.1,3.7,6.4,,003
+Allegheny,2001,Black,All Infants,48,39,"2,617",18.3,13.2,23.5,,003
+Allegheny,2001,Asian/Pacific Islander,All Infants,3,2,397,ND,ND,ND,,003
+Allegheny,2001,Hispanic,All Infants,2,1,148,ND,ND,ND,,003
+Allegheny,2000,All Races,All Infants,120,100,"14,281",8.4,6.9,9.9,+,003
+Allegheny,2000,White,All Infants,62,63,"11,003",5.6,4.2,7.0,,003
+Allegheny,2000,Black,All Infants,57,43,"2,715",21.0,15.5,26.4,+,003
+Allegheny,2000,Asian/Pacific Islander,All Infants,1,1,380,ND,ND,ND,,003
+Allegheny,2000,Hispanic,All Infants,1,1,147,ND,ND,ND,,003
+Allegheny,1999,All Races,All Infants,116,102,"14,442",8.0,6.6,9.5,,003
+Allegheny,1999,White,All Infants,62,62,"11,243",5.5,4.1,6.9,,003
+Allegheny,1999,Black,All Infants,49,45,"2,708",18.1,13.0,23.2,,003
+Allegheny,1999,Asian/Pacific Islander,All Infants,1,1,359,ND,ND,ND,,003
+Allegheny,1999,Hispanic,All Infants,2,1,134,ND,ND,ND,,003
+
